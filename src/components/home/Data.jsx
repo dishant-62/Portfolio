@@ -58,7 +58,7 @@ const Data = () => {
                 Software Developer, Web Developer
             </h3>
             <p className="home__description">
-            A results-driven, enthusiastic, creative Web Developer with excellent communication skills, ready to give my best to achieve remarkable outcomes.
+            A results-driven Software Developer, enthusiastic, creative Web Developer with excellent communication skills, ready to give my best to achieve remarkable outcomes.
             </p>
             <a href="#contact" className="button button--flex">
                 Say Hello
