@@ -40,7 +40,6 @@
     display: none;
 }
 
-/* ACTIVE LINK */
 .active-link,
 .nav__link:hover{
     color: rgb(237, 117, 25);
