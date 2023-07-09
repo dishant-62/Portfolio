@@ -47,12 +47,12 @@ const Qualifications = () => {
           >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">SSC (GPA : 9.0)</h3>
+                <h3 className="qualification__title">SSC (Perc. : 93%)</h3>
                 <span className="qualification__subtitle">
-                  Shri Guru Tegh Bahadur Academy
+                  J.N.V Dhansura, Arvalli
                 </span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> 07/2018 - 04/2019
+                  <i className="uil uil-calendar-alt"></i> 07/2017 - 04/2018
                 </div>
               </div>
 
@@ -70,12 +70,12 @@ const Qualifications = () => {
                 <span className="qualification__line"></span>
               </div>
               <div>
-                <h3 className="qualification__title"> HSC (GPA : 9.5)</h3>
+                <h3 className="qualification__title"> HSC (Perc : 93.6%)</h3>
                 <span className="qualification__subtitle">
-                  Shri Guru Tegh Bahadur Academy
+                  Nalanda Academy Kota
                 </span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> 07/2019 - 04/2021
+                  <i className="uil uil-calendar-alt"></i> 07/2018 - 03/2020
                 </div>
               </div>
             </div>
@@ -84,10 +84,10 @@ const Qualifications = () => {
               <div>
                 <h3 className="qualification__title">B.Tech</h3>
                 <span className="qualification__subtitle">
-                  Parul University
+                  M.N.I.T. Jaipur
                 </span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> 2021 - Present
+                  <i className="uil uil-calendar-alt"></i> 2020 - Present
                 </div>
               </div>
 
@@ -114,18 +114,18 @@ const Qualifications = () => {
               </div>
               <div>
                 <h3 className="qualification__title">
-                  Postman API Fundamentals Student Expert
+                  Full Stack Developer
                 </h3>
                 <span className="qualification__subtitle">
-                  Completed the certification
+                  Completed the internship
                 </span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> 01/2023
+                  <i className="uil uil-calendar-alt"></i> 03/2023
                 </div>
               </div>
             </div>
 
-            <div className="qualification__data">
+            {/* <div className="qualification__data">
               <div>
                 <h3 className="qualification__title">
                   First Open Source Conribution
@@ -142,8 +142,8 @@ const Qualifications = () => {
                 <span className="qualification__rounder"></span>
                 <span className="qualification__line"></span>
               </div>
-            </div>
-            <div className="qualification__data">
+            </div> */}
+            {/* <div className="qualification__data">
               <div></div>
 
               <div>
@@ -161,17 +161,17 @@ const Qualifications = () => {
                   <i className="uil uil-calendar-alt"></i> 01/2023
                 </div>
               </div>
-            </div>
+            </div> */}
             <div className="qualification__data">
               <div>
                 <h3 className="qualification__title">
-                  Hackvengers 2023
+                  Freelancer
                 </h3>
                 <span className="qualification__subtitle">
-                  2nd Runner ups in this national level hackathon
+                  Fiverr, Upwork
                 </span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> 03/2023
+                  <i className="uil uil-calendar-alt"></i> 01/2023
                 </div>
               </div>
 
