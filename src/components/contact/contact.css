@@ -1,7 +1,7 @@
 .contact__container{
     grid-template-columns: repeat(2, max-content);
     justify-content: center;
-    column-gap: 6rem;
+    column-gap: 19rem;
     padding-bottom: 3rem;
 }
 
