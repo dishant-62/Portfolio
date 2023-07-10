@@ -21,7 +21,7 @@
 }
 
 .work__container{
-    grid-template-columns: repeat(2, max-content);
+    grid-template-columns: repeat(3, max-content);
     gap: 3rem;
     justify-content: center;
 }
@@ -67,11 +67,17 @@
     background-color: var(--title-color);
     color: var(--container-color);
 }
-
+@media screen and (max-width: 1200px){
+    .work__container{
+        gap: 1rem;
+        grid-template-columns:repeat(2, max-content);
+    }
+}
 
 @media screen and (max-width: 992px) {
     .work__container{
-        gap: 1.25rem;
+        gap: 1rem;
+        grid-template-columns:repeat(2, max-content);
     }
     .work__card{
         padding: 1rem;

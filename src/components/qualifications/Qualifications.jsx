@@ -117,10 +117,10 @@ const Qualifications = () => {
                   Full Stack Developer
                 </h3>
                 <span className="qualification__subtitle">
-                  Completed the internship
+                  Saalve, Jaipur
                 </span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> 03/2023
+                  <i className="uil uil-calendar-alt"></i> 03/2023 - 06/2023
                 </div>
               </div>
             </div>
@@ -171,7 +171,7 @@ const Qualifications = () => {
                   Fiverr, Upwork
                 </span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> 01/2023
+                  <i className="uil uil-calendar-alt"></i> 01/2023 - Present
                 </div>
               </div>
 

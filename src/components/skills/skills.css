@@ -1,7 +1,8 @@
 .skills__container{
-    grid-template-columns: repeat(2, 350px);
+    grid-template-columns: repeat(2, 400px);
     column-gap: 3rem;
     justify-content: center;
+    margin-left: auto;
 }
 
 .skills__content{
